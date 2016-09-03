@@ -23,4 +23,7 @@
 
 [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
 
+###音视频
+[音视频ffmpeg-2大神](https://github.com/carlzhao/PLDroidPlayer/blob/master/PLDroidPlayerDemo/app/src/main/java/com/pili/pldroid/playerdemo/MainActivity.java)
+
 
